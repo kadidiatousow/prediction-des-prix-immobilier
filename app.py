@@ -89,7 +89,7 @@ st.markdown("""
 
 
 st.markdown('<h1 class="title">Estimation Intelligente de Prix Immobilier 🏡</h1>', unsafe_allow_html=True)
-st.markdown('Pour avoir les détails du code vous pouvez cliquez sur ce lien: ')
+st.markdown('Pour avoir les détails du code vous pouvez cliquez sur ce lien: https://github.com/kadidiatousow/prediction-des-prix-immobilier')
 
 with st.form("prediction_form"):
     with st.container():
